@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suryansh Singhal</h1>
-<h3 align="center">A passionate backend developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<h3 align="center">A passionate Full Stack developer from India.</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhal0306&label=Profile%20views&color=0e75b6&style=flat" alt="singhal0306" /> </p>
 
@@ -10,13 +10,13 @@
 
 - 📝 I regularly write articles on [https://singhalsuryansh.netlify.app/](https://singhalsuryansh.netlify.app/)
 
-- 💬 Ask me about **Back-End Development.**
+- 💬 Ask me about **Full-Stack Development and Machine Learning Algorithms.**
 
 - 📫 How to reach me **singhalsuryansh.0306@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/suryansh-singhal-25b375201/](https://www.linkedin.com/in/suryansh-singhal-25b375201/)
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **I think i can read your face and get your emotions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
