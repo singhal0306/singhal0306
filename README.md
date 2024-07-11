@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **singhalsuryansh.0306@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/suryansh-singhal-25b375201/](https://www.linkedin.com/in/suryansh-singhal-25b375201/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/singhal0306/](https://www.linkedin.com/in/singhal0306/)
 
 - ⚡ Fun fact **I think i can read your face and get your emotions.**
 
